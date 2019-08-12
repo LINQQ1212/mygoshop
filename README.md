@@ -1,0 +1,1 @@
+# mygoshop
