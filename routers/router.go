@@ -1,7 +1,7 @@
 package routers
 
 import (
-	"mygoshop/controllers"
+	"github.com/LINQQ1212/mygoshop/controllers"
 
 	"github.com/astaxie/beego"
 )

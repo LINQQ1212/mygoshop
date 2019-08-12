@@ -1,7 +1,7 @@
 package main
 
 import (
-	_ "mygoshop/routers"
+	_ "github.com/LINQQ1212/mygoshop/routers"
 
 	"github.com/astaxie/beego"
 )
